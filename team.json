@@ -1,0 +1,24 @@
+{
+  "engineer": {
+    "image": "assets/company/engineer.webp",
+    "name": "Константин Лонгаев",
+    "role": "Специалист по расчёту сметы",
+    "alt": "Константин Лонгаев из команды Larsson в шоуруме отделочных материалов",
+    "sourceUrl": "https://drive.google.com/file/d/1zz-XQ6TczDKXmXqW94_NP6eyTHGPjVLp/view?usp=drivesdk",
+    "roleSourceUrl": "https://drive.google.com/drive/folders/10311A-wfS3_GqZ_SExdcJtC9UCHA-1sn"
+  },
+  "showroom": {
+    "image": "assets/company/showroom.webp",
+    "title": "Шоурум Larsson",
+    "alt": "Образцы плитки, напольных покрытий и отделочных материалов в шоуруме Larsson",
+    "sourceUrl": "https://drive.google.com/file/d/19dlewJguqENf5HU0BrAdNX0GaBxdP-MI/view?usp=drivesdk",
+    "folderUrl": "https://drive.google.com/drive/folders/1yrKswm4p0kVEo5puCZDyqdOWucDDskrw"
+  },
+  "master": {
+    "image": "assets/company/master.webp",
+    "name": "Степан Сергеев",
+    "role": "Плиточник",
+    "alt": "Плиточник Степан Сергеев за работой на объекте Larsson",
+    "sourceUrl": "https://drive.google.com/file/d/1Fq83p6QdGW5QfLPsKZz7qcAYelv1rK_A/view?usp=drivesdk"
+  }
+}

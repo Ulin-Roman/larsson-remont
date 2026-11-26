@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "novoslobodskaya",
+    "title": "Квартира на Новослободской",
+    "area": 117,
+    "location": "Москва",
+    "type": "Ремонт квартиры",
+    "description": "Кухня-гостиная с мягким освещением, спальня и санузел в спокойной тёмной палитре. Фотографии завершённого объекта.",
+    "scope": [
+      "Кухня-гостиная",
+      "Спальня",
+      "Ванная комната"
+    ],
+    "images": [
+      "assets/projects/novoslobodskaya-living.webp",
+      "assets/projects/novoslobodskaya-kitchen.webp",
+      "assets/projects/novoslobodskaya-bedroom.webp",
+      "assets/projects/novoslobodskaya-bathroom.webp"
+    ],
+    "imageAlts": [
+      "Гостиная с диваном и зелёным креслом на Новослободской",
+      "Кухня и обеденный стол в квартире на Новослободской",
+      "Спальня с подсветкой за изголовьем",
+      "Ванная с отделкой под дерево и подвесной сантехникой"
+    ],
+    "sourceUrls": [
+      "https://drive.google.com/drive/folders/1e4UJ8I5VGkT_5k3PnViDSbh2BKvnxF2_",
+      "https://drive.google.com/drive/folders/1YvVqZy7x81WEGcICxsfQnKwJR-Jkzr84"
+    ]
+  },
+  {
+    "slug": "zilart",
+    "title": "ЖК «ЗИЛАРТ»",
+    "area": 54,
+    "location": "Москва",
+    "type": "Ремонт квартиры",
+    "description": "Светлая гостиная с диваном, кухня с островом и отдельностоящая ванна у окна. Фотографии завершённого объекта.",
+    "scope": [
+      "Кухня-гостиная",
+      "Спальня",
+      "Ванная комната"
+    ],
+    "images": [
+      "assets/projects/zilart-living.webp",
+      "assets/projects/zilart-bedroom.webp",
+      "assets/projects/zilart-bathroom.webp",
+      "assets/projects/zilart-kitchen.webp"
+    ],
+    "imageAlts": [
+      "Гостиная с серым диваном и кухней в ЖК ЗИЛАРТ",
+      "Спальня со светлыми панелями за кроватью",
+      "Ванная комната с отдельностоящей ванной у окна",
+      "Кухонный остров с барными стульями"
+    ],
+    "sourceUrls": [
+      "https://drive.google.com/drive/folders/1woj2HhR2XOE_Xk3Xw5FPPJql8K5y4a1o",
+      "https://drive.google.com/drive/folders/1pWJpdm7DLoae3mBZoqiqTqwAgYrD4JSm"
+    ]
+  },
+  {
+    "slug": "vtb-arena",
+    "title": "ЖК «ВТБ Арена Парк»",
+    "area": 155,
+    "rooms": 3,
+    "location": "Москва",
+    "type": "Капитальный ремонт по дизайн-проекту",
+    "description": "Квартира в стиле лофт с кирпичом, открытым потолком и яркими цветовыми акцентами. Выполнены перепланировка, вентиляция и кондиционирование.",
+    "scope": [
+      "Перепланировка и перегородки",
+      "Кирпич, окраска стен и плитка",
+      "Вентиляция и кондиционирование",
+      "Отделка массивом дерева"
+    ],
+    "duration": 187,
+    "price": 3118000,
+    "priceNote": "Сумма конкретного объекта из описания проекта, подготовленного в 2025 году. Состав материалов в документе не уточнён.",
+    "images": [
+      "assets/projects/vtb-arena-living.webp",
+      "assets/projects/vtb-arena-kitchen.webp",
+      "assets/projects/vtb-arena-bedroom.webp",
+      "assets/projects/vtb-arena-bathroom.webp"
+    ],
+    "imageAlts": [
+      "Кухня-гостиная в стиле лофт с большими окнами в ЖК ВТБ Арена Парк",
+      "Бирюзовая кухня с накладной белой раковиной",
+      "Спальня с кирпичной стеной и зеркалом",
+      "Ванная комната с белой плиткой и подвесным светильником"
+    ],
+    "sourceUrls": [
+      "https://drive.google.com/drive/folders/1QKAMjSjXLJs7zF5xgqFXGuvabIKmj_iF",
+      "https://drive.google.com/drive/folders/16P_4LPQnKU_22WVrkuZ8Qygcx1PK9OAO",
+      "https://docs.google.com/document/d/1KRFtrRLHGxn7pUB2Uc5b6Gyb1oJ2IGObiiQQN2yfy8s/edit"
+    ],
+    "video": "https://youtu.be/-ojYv9pYKTU"
+  },
+  {
+    "slug": "korovinskoe",
+    "title": "Коровинское шоссе",
+    "area": 39,
+    "location": "Москва",
+    "type": "Ремонт квартиры",
+    "description": "Компактная квартира в графитовых оттенках. В подборке показаны готовые гостиная, спальня, кухня и санузел.",
+    "scope": [
+      "Гостиная",
+      "Спальня",
+      "Кухня",
+      "Санузел"
+    ],
+    "images": [
+      "assets/projects/korovinskoe-living.webp",
+      "assets/projects/korovinskoe-bedroom.webp",
+      "assets/projects/korovinskoe-kitchen.webp",
+      "assets/projects/korovinskoe-bathroom.webp"
+    ],
+    "imageAlts": [
+      "Гостиная с угловым диваном на Коровинском шоссе",
+      "Спальная зона со стеклянной перегородкой",
+      "Кухня с тёмным смесителем и светлым фартуком",
+      "Ванная комната с душевой и тёмными фасадами"
+    ],
+    "sourceUrls": [
+      "https://drive.google.com/drive/folders/1zgvrybsQPTn2obcE45ISbVzqB6cCfXGF",
+      "https://drive.google.com/drive/folders/1sEueRdlcqVq-HpSu-S1t2PtSOaag_7YR"
+    ]
+  }
+]
