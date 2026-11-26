@@ -1,0 +1,17 @@
+[
+  {
+    "image": "assets/hero-1.webp",
+    "title": "Квартира на Новослободской",
+    "detail": "117 м² · кухня-гостиная"
+  },
+  {
+    "image": "assets/hero-2.webp",
+    "title": "ЖК «ЗИЛАРТ»",
+    "detail": "54 м² · гостиная"
+  },
+  {
+    "image": "assets/hero-3.webp",
+    "title": "ЖК «ВТБ Арена Парк»",
+    "detail": "155 м² · кухня-гостиная"
+  }
+]
