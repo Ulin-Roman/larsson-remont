@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ulin-roman.github.io/larsson-remont/sitemap.xml
